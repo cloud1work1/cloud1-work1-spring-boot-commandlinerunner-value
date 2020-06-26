@@ -1,6 +1,7 @@
 # cloud1-work1-spring-boot-commandlinerunner-value
 ## Application implements CommanLineRunner
 ## SpringApplication app = new SpringApplication(AppName.class);
+## app.setBannerMode(Banner.Mode.OFF);
 ## app.run(args);
 ## public void run(String ..args) {
 }
